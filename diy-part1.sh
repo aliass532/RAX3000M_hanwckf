@@ -20,6 +20,6 @@
 #echo 'src-git istore https://github.com/linkease/istore;main' >> feeds.conf.default
 #echo 'src-git 5G_Modem_Support https://github.com/Siriling/5G-Modem-Support;main' >> feeds.conf.default
 echo >> feeds.conf.default
-echo 'src-git modem https://github.com/FUjr/modem_feeds.git;main' >> feeds.conf.default
+echo 'src-git qmodem https://github.com/FUjr/modem_feeds.git;main' >> feeds.conf.default
 #sed -i '1i src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 #sed -i '2i src-git small https://github.com/kenzok8/small' feeds.conf.default
